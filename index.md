@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## 欢迎使用HexagonalTiledMapEditor工具
+这是一个三维六边形瓷砖编辑器。它支持鼠标滑动创建。快捷创建或改变编辑层级。六边形资源由用户指定的目录中遍历获得。它支持任意体积的六边形(大、中、小、高、矮可以用户自定义)，且高矮不同、平面规格相同的六边形可以在同层混合拼接，并且支持在不同高度的六边形之间插入新的层。六边形资源不依赖于碰撞体(考虑到效率)。
 
-You can use the [editor on GitHub](https://github.com/ytlx/unity/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 操作方式
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. 在Hierarchy中右键点击 Hexagonal Editor创建。
+2. 从Project中拽存有六边形瓷砖的目录到 Search Folder。
+3. 在三维场景内点击或拖拽滑动鼠标，创建六边形。
+屏幕中会有白色线框辅助用户将六边形放置到理想位置。若屏幕中出现黄色线框，用户可点击更换六边形，或者按W(S)键在其上加减层级。
+4. 每次摆放只识别当前层级。按W(S)键可改变当前编辑的层级。点击右下角Layer按钮可直接切换到指定层级。点击Layer前可见性按钮可改变三维场景内指定层级的可视性。
+5. 可点击橡皮擦掉三维场景内已有六边形。
+6. 在Inspector 中可改写三维场景内当前层的辅助平面大小。
 
-### Markdown
+### 联系方式
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ytlx/unity/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+如果您在使用过程中有任何问题，请发送邮件至 ytlx_support@foxmail.com 与我联系。感谢您的使用。
