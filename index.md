@@ -13,4 +13,4 @@
 
 ### 联系方式
 
-如果您在使用过程中有任何问题，请发送邮件至 ytlx_support@foxmail.com 与我联系。感谢您的使用。
+如果您在使用过程中有任何问题，请发送邮件至 ytlx_support@foxmail.com 与我们联系。感谢您的使用。
