@@ -1,3 +1,5 @@
+---------------------------------------------------------------------------------------------------------------------------------------
+
 ## 欢迎使用HexagonalTiledMapEditor工具
 这是一个三维六边形瓷砖编辑器。它支持鼠标滑动创建。快捷创建或改变编辑层级。六边形资源由用户指定的目录中遍历获得。它支持任意体积的六边形(大、中、小、高、矮可以用户自定义)，且高矮不同、平面规格相同的六边形可以在同层混合拼接，并且支持在不同高度的六边形之间插入新的层。六边形资源不依赖于碰撞体(考虑到效率)。
 
@@ -22,8 +24,7 @@
 
 如果您在使用过程中有任何问题，请发送邮件至 ytlx_support@foxmail.com 与我们联系。感谢您的使用。
 
-
-
+---------------------------------------------------------------------------------------------------------------------------------------
 
 ## Welcome to use HexagonalTiledMapEditor
 This is a 3d hexagon tile editor.It supports mouse - click & drag creation.Create or change edit levels quickly.Hexagonal resources are obtained by traversing in the user-specified directory.It supports any size of hexagon (large, medium and small, high, short can be user custom), and its height, plane different specifications of the same hexagon can be blended in the tree, and support in different height of hexagon inserted between the new layer.Hexagonal resources are not dependent on colliders (considering efficiency).
