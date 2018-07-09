@@ -11,6 +11,30 @@
 5. 可点击橡皮擦掉三维场景内已有六边形。
 6. 在Inspector 中可改写三维场景内当前层的辅助平面大小。
 
-### 联系方式
+### 视频教程
+1. https://www.youtube.com/watch?v=jTO2oQ5f_JM
+2. https://www.youtube.com/watch?v=H_m4Itdf44I
+3. https://www.youtube.com/watch?v=3DcT5iBrJk4
+4. https://www.youtube.com/watch?v=YwfgMV9GaSI
+
+
+## 联系方式
 
 如果您在使用过程中有任何问题，请发送邮件至 ytlx_support@foxmail.com 与我们联系。感谢您的使用。
+
+
+
+
+## Welcome to use HexagonalTiledMapEditor
+This is a 3d hexagon tile editor.It supports mouse - click & drag creation.Create or change edit levels quickly.Hexagonal resources are obtained by traversing in the user-specified directory.It supports any size of hexagon (large, medium and small, high, short can be user custom), and its height, plane different specifications of the same hexagon can be blended in the tree, and support in different height of hexagon inserted between the new layer.Hexagonal resources are not dependent on colliders (considering efficiency).
+
+
+### tutorials
+1. https://www.youtube.com/watch?v=jTO2oQ5f_JM
+2. https://www.youtube.com/watch?v=H_m4Itdf44I
+3. https://www.youtube.com/watch?v=3DcT5iBrJk4
+4. https://www.youtube.com/watch?v=YwfgMV9GaSI
+
+
+## Contact Us
+if you have any question, send message to ytlx_support@foxmail.com. Thank you for using it.
