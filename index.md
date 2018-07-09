@@ -1,6 +1,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 ## 欢迎使用HexagonalTiledMapEditor工具
+
 这是一个三维六边形瓷砖编辑器。它支持鼠标滑动创建。快捷创建或改变编辑层级。六边形资源由用户指定的目录中遍历获得。它支持任意体积的六边形(大、中、小、高、矮可以用户自定义)，且高矮不同、平面规格相同的六边形可以在同层混合拼接，并且支持在不同高度的六边形之间插入新的层。六边形资源不依赖于碰撞体(考虑到效率)。
 
 ### 操作方式
@@ -14,10 +15,18 @@
 6. 在Inspector 中可改写三维场景内当前层的辅助平面大小。
 
 ### 视频教程
-1. https://www.youtube.com/watch?v=jTO2oQ5f_JM
-2. https://www.youtube.com/watch?v=H_m4Itdf44I
-3. https://www.youtube.com/watch?v=3DcT5iBrJk4
-4. https://www.youtube.com/watch?v=YwfgMV9GaSI
+
+youtube:
+1. https://www.youtube.com/watch?v=jTO2oQ5f_JM    
+2. https://www.youtube.com/watch?v=H_m4Itdf44I    
+3. https://www.youtube.com/watch?v=3DcT5iBrJk4    
+4. https://www.youtube.com/watch?v=YwfgMV9GaSI    
+    
+优酷:
+1. http://player.youku.com/embed/XMzcxMjczMjcwOA==
+2. http://player.youku.com/embed/XMzcxMjczNjA2NA==
+3. http://player.youku.com/embed/XMzcxMjczNjQ0NA==
+4. http://player.youku.com/embed/XMzcxMjczNzIxMg==
 
 
 ## 联系方式
