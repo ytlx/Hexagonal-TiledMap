@@ -32,6 +32,7 @@ youtube:
 ### 版本说明
 
 V 1.0
+
 新增：
 1. 点击 & 拖拽 创建瓦片
 2. 替换瓦片
@@ -39,13 +40,16 @@ V 1.0
 4. 增加(减少)层
 
 V 2.0 
+
 新增：
 1.右键点击旋转六边形块 
 2.显示当前层的所有六边形的坐标(可选) 
 
 V 2.1
+
 修正: 
 1. 右键点击旋转改为"Ctrl + 鼠标右键"
+
 新增：
 1. 光标在瓦片上时，按住shift+鼠标左键点击，可删除瓦片。
 
@@ -71,6 +75,7 @@ This is a 3d hexagon tile editor.It supports mouse - click & drag creation.Creat
 ### Version
 V 1.0
 Add：
+
 1. click & drag create tile
 2. replace tile
 3. delete tile
@@ -78,12 +83,15 @@ Add：
 
 V 2.0
 Add：
+
 1.Rotate “tile” by click Right-Mouse
 2.Display "tile" coordinates for the current layer (option)
 
 V2.1
+
 Modify:
 1. change "'Right-Mouse' rotate tile" to "Ctrl + Right-Mouse"
+
 Add:
 1. When cursor on a tile,  click with "shift" will be delete tile
 
